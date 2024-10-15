@@ -1,0 +1,5 @@
+services:
+  lab7:
+    build: .
+    ports: 
+      - "10008:8000"
